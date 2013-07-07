@@ -1,0 +1,9 @@
+Description
+  Explain the generator
+
+Example:
+  rails generate admin_controller thing
+
+
+  This will create:
+    some stuff
